@@ -4,8 +4,7 @@ A modern, fully responsive contact form built using **HTML**, **CSS**, and **Van
 
 ## 📌 Live Demo
 
-🔗 [View Live Website](https://your-live-site-link.com)  
-*(Replace the link above with your deployed version, e.g., Netlify, Vercel, GitHub Pages)*
+🔗 https://contact-form-theta-beryl.vercel.app/
 
 ## ✨ Features
 
@@ -47,4 +46,4 @@ To run the project locally:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/contact-form-task02.git
+   git clone https://github.com/kashif365/Contact-Form
